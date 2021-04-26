@@ -14,25 +14,25 @@ public class Book {
 			
 			//create and store 5 Fiction objects
 			
-			books[0] = new Fiction("The First Animals");
+			books[0] = new Fiction("Ayesha of the Bosphorus: A Romance of Constantinople");
 			
-			books[1] = new Fiction("And Then There Were None");
+			books[1] = new Fiction("1/2");
 			
-			books[2] = new Fiction("The Grim Reaper");
+			books[2] = new Fiction("Birth and Call of Jesus Christ: A Bahá'í-inspired retelling");
 			
-			books[3] = new Fiction("Spirited Away");
+			books[3] = new Fiction("Breathe Not the Sins of Others: A Tale of Suspense");
 			
 			books[4] = new Fiction("Inception");
 			
 			books[5] = new NonFiction("In Cold Blood");
 			
-			books[6] = new NonFiction("Silent Spring");
+			books[6] = new NonFiction("oming Out");
 			
-			books[7] = new NonFiction("A Room of One's Own");
+			books[7] = new NonFiction("Room");
 			
-			books[8] = new NonFiction("When Breath Becomes Air");
+			books[8] = new NonFiction("A Room of One's Own");
 			
-			books[9] = new NonFiction("The Tipping Point");
+			books[9] = new NonFiction("Dramatic Readings");
 			
 			  //display the details of all books
 			
