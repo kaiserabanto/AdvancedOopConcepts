@@ -22,7 +22,7 @@ public class Book {
 			
 			books[3] = new Fiction("Breathe Not the Sins of Others: A Tale of Suspense");
 			
-			books[4] = new Fiction("Inception");
+			books[4] = new Fiction("Dress for Mona, A: Abridged one-act version");
 			
 			books[5] = new NonFiction("In Cold Blood");
 			
